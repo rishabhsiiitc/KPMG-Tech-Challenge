@@ -1,7 +1,0 @@
-Using AWS cloud ecosystem as a Tool we can create a 3 Tier environment setup. 
-We are going to use AWS resources like S3 Bucket, Cloud Front, Amazon API Gateway, AWS Lambda & Amazon RDS to build 3 tier system comprising of Presentataion, Application & DB Tier.
-
-Presentation Tier                                       Application Tier                                  Database Tier
-
-
-Amazon S3 Bucket
